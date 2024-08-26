@@ -2,7 +2,7 @@
 
 ![Truck Signs](./screenshots/Truck_Signs_logo.png)
 
-# Signs for Trucks
+# Signs  for  Trucks
 
 ![Next js version](https://img.shields.io/badge/NEXT_js-12.1.0-4c566a?logo=next.js&&longCache=truelogoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Bootstrap version](https://img.shields.io/badge/Bootstrap-5.0.2-4c566a?logo=bootstrap&&longCache=true&logoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django version](https://img.shields.io/badge/Django-2.2.8-4c566a?logo=django&&longCache=truelogoColor=white&colorB=pink&style=flat-square&colorA=4c566a) ![Django-RestFramework](https://img.shields.io/badge/Django_Rest_Framework-3.12.4-red.svg?longCache=true&style=flat-square&logo=django&logoColor=white&colorA=4c566a&colorB=pink) ![Forks](https://img.shields.io/github/forks/Ceci-Aguilera/truck_signs_frontend?&&longCache=true&logoColor=white&colorB=yellow&style=flat-square&colorA=4c566a) ![Commit activity](https://img.shields.io/github/commit-activity/y/Ceci-Aguilera/truck_signs_frontend/master?&&longCache=true&logoColor=white&colorB=green&style=flat-square&colorA=4c566a)
 
